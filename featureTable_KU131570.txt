@@ -1,0 +1,52 @@
+>Feature KU131570
+212	21948	gene
+			gene Pp1ab
+212	13342	CDS
+13342	21498
+			product	replicase polyprotein
+			transl_table	1
+			note	translated via a -1 ribosomal frameshift; ORF 1a/1b
+			exception	ribosomal slippage
+21508	22344	gene
+			gene	NS2a
+21508	22344	CDS
+			product	NS2a protein
+			prot_desc	non-structural protein 2a
+			transl_table	1	
+22356	23627	gene
+			gene	HE
+22356	23627	CDS
+			product	HE protein
+			prot_desc	hemagglutinin-esterase
+			transl_table	1	
+23642	27721	gene
+			gene	S
+23642	27721	CDS
+			product	S protein
+			prot_desc	spike surface glycoprotein
+			transl_table	1
+27809	28138	gene
+			gene	NS5a
+27809	28138	CDS
+			product	NS5a protein
+			prot_desc	non-structural 5a
+			transl_table	1	
+28125	28382	gene
+			gene	E
+28125	28382	CDS
+			product	E protein
+			prot_desc	envelope protein
+			transl_table	1
+
+28393	29085	gene
+			gene	M
+28393	29085	CDS
+			product	M protein
+			prot_desc	membrane protein
+			transl_table	1	
+29095	30441	gene
+			gene	N
+29095	30441	CDS
+			product	N protein
+			prot_desc	nucleocapsid protein
+			transl_table	1
